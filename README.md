@@ -1,4 +1,4 @@
-# practicaUsoDePartials
+# practica Uso De Partials y EJS
 Esta es una practica donde se debe de implementar el uso de las vistas EJS para cargar datos de forma dinámica del curso de DIGITAL HOUSE desarrollo full stack 
 
 
